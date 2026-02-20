@@ -82,7 +82,8 @@ I enjoy working on problems at the intersection of **engineering, performance, a
 ## 📫 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/haowei-cao  
-- GitHub: https://chwjh.com
+- GitHub: https://github.com/hcao10/
+- Web: https://chwjh.com/
 
 ---
 
